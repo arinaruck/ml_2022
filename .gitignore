@@ -105,6 +105,8 @@ ENV/
 *.cb2
 *.fdb_latexmk
 *.synctex.gz
+*.gz
+*-ubyte
 projects/project1/data/train.csv
 .gitignore
 projects/project1/data/sample-submission.csv
